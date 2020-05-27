@@ -12,7 +12,7 @@
 The best 64 hacking tools in one tool                                                     
   created by ||DIMO5991||                                                                          
   Steps to use the tool                                                              
-  Download   : https://github.com/dimo5991/TOOL-BOX.git                                                  
+  Download   : https://github.com/dimo5991/toolbox.git                                                 
   chmod +x toolbox.sh                                                     
   ./toolbox.sh                                                      
   
